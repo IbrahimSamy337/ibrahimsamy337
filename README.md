@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 I'm Ibrahim Samy
+## Hi there 👋,  I'm Ibrahim Samy
 
 🎓 Veterinary Medicine Student | 💻 Aspiring Software Developer  
 📞 Interested in Customer Support & Call Center Roles  
