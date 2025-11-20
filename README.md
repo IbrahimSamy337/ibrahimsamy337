@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Hi, I'm Ibrahim Samy
+# 👋 I'm Ibrahim Samy
 
 🎓 Veterinary Medicine Student | 💻 Aspiring Software Developer  
 📞 Interested in Customer Support & Call Center Roles  
@@ -8,18 +8,16 @@
 ---
 
 ## 🚀 Skills & Technologies
-- **Programming:** C, C++, Python  
-- **Tools:** Git, GitHub, VS Code  
+- **Programming:** C++, Python, Java  
+- **Tools:** Git, GitHub, VS Code, VS  
 - **GUI & APIs:** Tkinter, OpenWeatherMap API  
 - **Problem Solving:** Algorithms & Data Structures  
 
 ---
 
 ## 📚 Currently Learning
-- English (AJ Hoge Method)  
-- Object-Oriented Programming (OOP)  
-- Backend Basics  
-- Advanced Data Structures  
+- English     
+- Front-end development    
 
 ---
 
@@ -30,15 +28,13 @@
 - Shows temperature, forecast, and weather details  
 
 ### 🧮 Programming Challenges
-- Second-largest number without arrays  
-- Intersection of matrices  
-- Simple calculators & mini-projects  
+- Mini-projects  
 
 ---
 
 ## 📫 Contact Me
-- **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/your-linkedin/)  
-- **Email:** your-email@gmail.com  
+- **LinkedIn:** [https://www.linkedin.com/in/%E2%80%AAibrahim-samy%E2%80%AC%E2%80%8F-133522392/](https://www.linkedin.com/in/your-linkedin/)  
+- **Email:** ibrahimsamymohamed@gmail.com  
 
 ---
 
