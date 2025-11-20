@@ -1,4 +1,48 @@
 ## Hi there 👋
+# 👋 Hi, I'm Ibrahim Samy
+
+🎓 Veterinary Medicine Student | 💻 Aspiring Software Developer  
+📞 Interested in Customer Support & Call Center Roles  
+🏋️ Fitness & Nutrition Enthusiast  
+
+---
+
+## 🚀 Skills & Technologies
+- **Programming:** C, C++, Python  
+- **Tools:** Git, GitHub, VS Code  
+- **GUI & APIs:** Tkinter, OpenWeatherMap API  
+- **Problem Solving:** Algorithms & Data Structures  
+
+---
+
+## 📚 Currently Learning
+- English (AJ Hoge Method)  
+- Object-Oriented Programming (OOP)  
+- Backend Basics  
+- Advanced Data Structures  
+
+---
+
+## 🔥 Projects
+### 🌦 Weather App (Python)
+- Fetches weather data using OpenWeatherMap API  
+- GUI built with Tkinter  
+- Shows temperature, forecast, and weather details  
+
+### 🧮 Programming Challenges
+- Second-largest number without arrays  
+- Intersection of matrices  
+- Simple calculators & mini-projects  
+
+---
+
+## 📫 Contact Me
+- **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/your-linkedin/)  
+- **Email:** your-email@gmail.com  
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ibrahimsamy337)
 
 <!--
 IbrahimSamy337/ibrahimsamy337 is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
